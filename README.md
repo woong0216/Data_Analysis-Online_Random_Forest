@@ -1,4 +1,4 @@
-# Data_Analysis-Online_Random_Forest
+# Data analysis using Online Random Forest
 
 ## Propose
 - When collecting real-time data, we would like to implement how accuracy.
